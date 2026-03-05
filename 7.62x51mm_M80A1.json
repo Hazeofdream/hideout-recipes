@@ -1,5 +1,5 @@
 {
-  "_id": "PR_M80",
+  "_id": "PR_M80A1",
   "areaType": 8,
   "requiredLevel": 3,
   "productionTime": 1800,
@@ -15,4 +15,5 @@
   "tools": [
     {"tpl": "544fb5454bdc2df8738b456a", "count": 1}
   ]
+
 }
