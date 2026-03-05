@@ -3,11 +3,11 @@
   "areaType": 8,
   "requiredLevel": 3,
   "productionTime": 1800,
-  "endProduct": "54527ac44bdc2d36668b4567",
-  "count": 30,
+  "endProduct": "601949593ae8f707c4608daa",
+  "count": 90,
   "needFuelForAllProductionTime": true,
   "inputs": [
-    { "tpl": "54527a984bdc2d4e668b4567", "count": 60 },
+    { "tpl": "54527ac44bdc2d36668b4567", "count": 120 },
     { "tpl": "5d6fc87386f77449db3db94e", "count": 1 },
     { "tpl": "5d1c819a86f774771b0acd6c", "count": 1 },
     { "tpl": "61bf7b6302b3924be92fa8c3", "count": 2 }

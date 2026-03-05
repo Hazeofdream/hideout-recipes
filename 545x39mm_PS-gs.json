@@ -4,10 +4,10 @@
   "requiredLevel": 2,
   "productionTime": 1800,
   "endProduct": "56dff3afd2720bba668b4567",
-  "count": 30,
+  "count": 90,
   "needFuelForAllProductionTime": true,
   "inputs": [
-    { "tpl": "56dff4a2d2720bbd668b456a", "count": 60 },
+    { "tpl": "56dff4a2d2720bbd668b456a", "count": 120 },
     { "tpl": "5d6fc87386f77449db3db94e", "count": 1 },
     { "tpl": "61bf7b6302b3924be92fa8c3", "count": 1 }
   ],
