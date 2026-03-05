@@ -1,0 +1,18 @@
+{
+  "_id": "PR_BSGS",
+  "areaType": 8,
+  "requiredLevel": 3,
+  "productionTime": 1800,
+  "endProduct": "56dff026d2720bb8668b4567",
+  "count": 30,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    { "tpl": "56dfef82d2720bbd668b4567", "count": 60 },
+    { "tpl": "5d6fc87386f77449db3db94e", "count": 1 },
+    { "tpl": "5d1c819a86f774771b0acd6c", "count": 1 },
+    { "tpl": "61bf7b6302b3924be92fa8c3", "count": 2 }
+  ],
+  "tools": [
+    {"tpl": "544fb5454bdc2df8738b456a", "count": 1}
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "_id": "PR_M80",
+  "areaType": 8,
+  "requiredLevel": 2,
+  "productionTime": 1800,
+  "endProduct": "58dd3ad986f77403051cba8f",
+  "count": 30,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    { "tpl": "5e023e53d4353e3302577c4c", "count": 60 },
+    { "tpl": "5d6fc78386f77449d825f9dc", "count": 1 },
+    { "tpl": "590c5a7286f7747884343aea", "count": 1 },
+    { "tpl": "61bf7b6302b3924be92fa8c3", "count": 2 }
+  ],
+  "tools": [
+    {"tpl": "590c2b4386f77425357b6123", "count": 1}
+  ]
+}
