@@ -1,6 +1,6 @@
 {
   "_id": "PR_PSGS",
-  "areaType": 8,
+  "areaType": 10,
   "requiredLevel": 2,
   "productionTime": 1800,
   "endProduct": "56dff3afd2720bba668b4567",

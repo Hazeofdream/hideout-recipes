@@ -1,6 +1,6 @@
 {
   "_id": "PR_BPGS",
-  "areaType": 8,
+  "areaType": 10,
   "requiredLevel": 3,
   "productionTime": 1800,
   "endProduct": "56dfef82d2720bbd668b4567",

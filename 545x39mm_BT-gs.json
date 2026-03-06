@@ -1,6 +1,6 @@
 {
   "_id": "PR_BTGS",
-  "areaType": 8,
+  "areaType": 10,
   "requiredLevel": 2,
   "productionTime": 1800,
   "endProduct": "56dff061d2720bb5668b4567",

@@ -1,6 +1,6 @@
 {
   "_id": "PR_SSAAP",
-  "areaType": 8,
+  "areaType": 10,
   "requiredLevel": 3,
   "productionTime": 1800,
   "endProduct": "601949593ae8f707c4608daa",
