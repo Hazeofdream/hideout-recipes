@@ -1,13 +1,13 @@
 {
-  "_id": "PR_M80A1",
+  "_id": "PR_LAPUAAP",
   "areaType": 10,
   "requiredLevel": 3,
   "productionTime": 1800,
-  "endProduct": "6768c25aa7b238f14a08d3f6",
-  "count": 60,
+  "endProduct": "5fc382a9d724d907e2077dab",
+  "count": 30,
   "needFuelForAllProductionTime": true,
   "inputs": [
-    { "tpl": "58dd3ad986f77403051cba8f", "count": 90 },
+    { "tpl": "5fc275cf85fd526b824a571a", "count": 60 },
     { "tpl": "5d6fc87386f77449db3db94e", "count": 1 },
     { "tpl": "5d1c819a86f774771b0acd6c", "count": 1 },
     { "tpl": "61bf7b6302b3924be92fa8c3", "count": 2 }
