@@ -1,0 +1,41 @@
+{
+  "_id": "PR_6SH118",
+  "areaType": 2,
+  "requiredLevel": 3,
+  "productionTime": 3600,
+  "endProduct": "5df8a4d786f77412672a1e3b",
+  "count": 1,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    {
+      "tpl": "60098ad7c2240c0fe85c570a",
+      "count": 2
+    },
+    {
+      "tpl": "5d02797c86f774203f38e30a",
+      "count": 1
+    },
+    {
+      "tpl": "545cdae64bdc2d39198b4568",
+      "count": 1
+    },
+    {
+      "tpl": "5c0fa877d174af02a012e1cf",
+      "count": 2
+    },
+    {
+      "tpl": "5f5e46b96bdad616ad46d613",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "544fb5454bdc2df8738b456a",
+      "count": 1
+    },
+    {
+      "tpl": "5af04b6486f774195a3ebb49",
+      "count": 1
+    }
+  ]
+}
