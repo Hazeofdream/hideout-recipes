@@ -8,10 +8,6 @@
   "needFuelForAllProductionTime": true,
   "inputs": [
     {
-      "tpl": "58889d0c2459775bc215d981",
-      "count": 1
-    },
-    {
       "tpl": "5d1c819a86f774771b0acd6c",
       "count": 8
     },
