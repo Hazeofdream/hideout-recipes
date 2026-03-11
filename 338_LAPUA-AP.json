@@ -5,7 +5,7 @@
   "productionTime": 1800,
   "endProduct": "5fc382a9d724d907e2077dab",
   "count": 30,
-  "needFuelForAllProductionTime": true,
+  "needFuelForAllProductionTime": false,
   "inputs": [
     { "tpl": "5fc275cf85fd526b824a571a", "count": 60 },
     { "tpl": "5d6fc78386f77449d825f9dc", "count": 1 }
