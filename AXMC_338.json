@@ -9,28 +9,24 @@
   "inputs": [
     {
       "tpl": "5d1c819a86f774771b0acd6c",
-      "count": 8
-    },
-    {
-      "tpl": "5910968f86f77425cf569c32",
-      "count": 2
+      "count": 4
     },
     {
       "tpl": "57347c5b245977448d35f6e1",
-      "count": 16
+      "count": 12
     },
     {
       "tpl": "57347c77245977448d35f6e2",
-      "count": 8
+      "count": 6
+    }
+    {
+      "tpl": "5bc9b355d4351e6d1509862a",
+      "count": 1
     }
   ],
   "tools": [
     {
       "tpl": "544fb5454bdc2df8738b456a",
-      "count": 1
-    },
-    {
-      "tpl": "63a0b208f444d32d6f03ea1e",
       "count": 1
     },
     {
