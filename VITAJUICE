@@ -1,0 +1,15 @@
+{
+  "_id": "PR_VITAJUICE",
+  "areaType": 6,
+  "requiredLevel": 2,
+  "productionTime": 900,
+  "endProduct": "5c0fa877d174af02a012e1cf",
+  "count": 1,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "57513fcc24597720a31c09a6",
+      "count": 1
+    }
+  ]
+}
