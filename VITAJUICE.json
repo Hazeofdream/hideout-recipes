@@ -3,12 +3,18 @@
   "areaType": 6,
   "requiredLevel": 2,
   "productionTime": 900,
-  "endProduct": "5c0fa877d174af02a012e1cf",
-  "count": 1,
+  "endProduct": "60098b1705871270cd5352a1",
+  "count": 2,
   "needFuelForAllProductionTime": false,
   "inputs": [
     {
       "tpl": "57513fcc24597720a31c09a6",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "5d1b39a386f774252339976f",
       "count": 1
     }
   ]
