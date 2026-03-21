@@ -2,6 +2,7 @@
 
 # Installation
 Install [Hideout Recipe Framework](https://forge.sp-tarkov.com/mod/2520/hideout-recipe-framework)
+
 Run the server once.
 
 # Updating
