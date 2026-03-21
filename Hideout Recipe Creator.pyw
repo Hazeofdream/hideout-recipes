@@ -425,6 +425,10 @@ def generate():
     if not validate_fields():
         messagebox.showerror("Validation Error","Fix highlighted fields.")
         return
+    
+    if tools_var.get() and not tools:
+        messagebox.showerror("Validation Error","Tools enabled but none added.")
+        return
 
     rid=recipe_id.get().strip()
     lvl=required_level.get_int()
@@ -437,6 +441,14 @@ def generate():
     for n,c,row in ingredients:
         inputs.append({"tpl":find_item(n.get()),"count":c.get_int()})
 
+    tools_list=[]
+    if tools_var.get():
+        for n,c,row in tools:
+            tools_list.append({
+                "tpl": find_item(n.get()),
+                "count": c.get_int()
+            })
+
     recipe={
         "_id":rid,
         "areaType":AREA_TYPES[area],
@@ -447,6 +459,9 @@ def generate():
         "needFuelForAllProductionTime":fuel_var.get(),
         "inputs":inputs
     }
+
+    if tools_list:
+        recipe["tools"] = tools_list
 
     output.delete("1.0",tk.END)
     output.insert(tk.END,json.dumps(recipe,indent=2))
