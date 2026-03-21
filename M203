@@ -1,0 +1,33 @@
+{
+  "_id": "PR_M203",
+  "areaType": 10,
+  "requiredLevel": 3,
+  "productionTime": 900,
+  "endProduct": "6357c98711fb55120211f7e1",
+  "count": 1,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "5d1c819a86f774771b0acd6c",
+      "count": 4
+    },
+    {
+      "tpl": "57347c5b245977448d35f6e1",
+      "count": 6
+    },
+    {
+      "tpl": "57347c77245977448d35f6e2",
+      "count": 4
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "590c2d8786f774245b1f03f3",
+      "count": 1
+    },
+    {
+      "tpl": "62a0a0bb621468534a797ad5",
+      "count": 1
+    }
+  ]
+}
