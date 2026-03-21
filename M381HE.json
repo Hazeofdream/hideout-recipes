@@ -2,9 +2,9 @@
   "_id": "PR_M381HE",
   "areaType": 10,
   "requiredLevel": 3,
-  "productionTime": 900,
+  "productionTime": 300,
   "endProduct": "5ede474b0c226a66f5402622",
-  "count": 1,
+  "count": 2,
   "needFuelForAllProductionTime": false,
   "inputs": [
     {
