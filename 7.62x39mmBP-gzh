@@ -1,0 +1,29 @@
+{
+  "_id": "7.62x39mm BP gzh",
+  "areaType": 10,
+  "requiredLevel": 3,
+  "productionTime": 1800,
+  "endProduct": "59e0d99486f7744a32234762",
+  "count": 60,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    {
+      "tpl": "64b7af434b75259c590fa893",
+      "count": 120
+    },
+    {
+      "tpl": "5d6fc78386f77449d825f9dc",
+      "count": 2
+    },
+    {
+      "tpl": "590c5a7286f7747884343aea",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "544fb5454bdc2df8738b456a",
+      "count": 1
+    }
+  ]
+}
