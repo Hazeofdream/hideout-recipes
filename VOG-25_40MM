@@ -1,0 +1,29 @@
+{
+  "_id": "VOG-25",
+  "areaType": 10,
+  "requiredLevel": 3,
+  "productionTime": 300,
+  "endProduct": "5656eb674bdc2d35148b457c",
+  "count": 3,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    {
+      "tpl": "5e340dcdcb6d5863cc5e5efb",
+      "count": 3
+    },
+    {
+      "tpl": "5d6fc87386f77449db3db94e",
+      "count": 1
+    },
+    {
+      "tpl": "61bf7b6302b3924be92fa8c3",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "544fb5454bdc2df8738b456a",
+      "count": 1
+    }
+  ]
+}
