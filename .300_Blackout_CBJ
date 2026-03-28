@@ -1,0 +1,29 @@
+{
+  "_id": ".300_Blackout_CBJ",
+  "areaType": 10,
+  "requiredLevel": 3,
+  "productionTime": 1200,
+  "endProduct": "64b8725c4b75259c590fa899",
+  "count": 80,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    {
+      "tpl": "619636be6db0f2477964e710",
+      "count": 120
+    },
+    {
+      "tpl": "61bf7b6302b3924be92fa8c3",
+      "count": 2
+    },
+    {
+      "tpl": "5d6fc78386f77449d825f9dc",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "544fb5454bdc2df8738b456a",
+      "count": 1
+    }
+  ]
+}
