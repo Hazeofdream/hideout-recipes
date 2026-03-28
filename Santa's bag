@@ -1,0 +1,15 @@
+{
+  "_id": "Santa's bag",
+  "areaType": 2,
+  "requiredLevel": 1,
+  "productionTime": 15,
+  "endProduct": "61b9e1aaef9a1b5d6a79899a",
+  "count": 1,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    {
+      "tpl": "59e763f286f7742ee57895da",
+      "count": 1
+    }
+  ]
+}
