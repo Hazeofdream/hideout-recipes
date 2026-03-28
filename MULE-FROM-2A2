@@ -1,0 +1,29 @@
+{
+  "_id": "MULE-FROM-2A2",
+  "areaType": 7,
+  "requiredLevel": 3,
+  "productionTime": 1500,
+  "endProduct": "5ed51652f6c34d2cc26336a1",
+  "count": 1,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    {
+      "tpl": "66507eabf5ddb0818b085b68",
+      "count": 1
+    },
+    {
+      "tpl": "5c0e531d86f7747fa23f4d42",
+      "count": 1
+    },
+    {
+      "tpl": "5d1b3a5d86f774252167ba22",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "619cc01e0a7c3a1a2731940c",
+      "count": 1
+    }
+  ]
+}
