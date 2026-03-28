@@ -1,0 +1,25 @@
+{
+  "_id": "eTG-change",
+  "areaType": 7,
+  "requiredLevel": 3,
+  "productionTime": 1200,
+  "endProduct": "5c0e534186f7747fa1419867",
+  "count": 1,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    {
+      "tpl": "5c0e530286f7747fa1419862",
+      "count": 2
+    },
+    {
+      "tpl": "5c10c8fd86f7743d7d706df3",
+      "count": 2
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "619cc01e0a7c3a1a2731940c",
+      "count": 1
+    }
+  ]
+}
