@@ -1,0 +1,33 @@
+{
+  "_id": "40MM-APERS",
+  "areaType": 10,
+  "requiredLevel": 3,
+  "productionTime": 300,
+  "endProduct": "5ede475339ee016e8c534742",
+  "count": 1,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    {
+      "tpl": "61bf7b6302b3924be92fa8c3",
+      "count": 1
+    },
+    {
+      "tpl": "5f647f31b6238e5dd066e196",
+      "count": 15
+    },
+    {
+      "tpl": "5d1c819a86f774771b0acd6c",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "544fb5454bdc2df8738b456a",
+      "count": 1
+    },
+    {
+      "tpl": "5d40419286f774318526545f",
+      "count": 1
+    }
+  ]
+}
