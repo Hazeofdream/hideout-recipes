@@ -1,0 +1,29 @@
+{
+  "_id": "Comtac VI",
+  "areaType": 2,
+  "requiredLevel": 2,
+  "productionTime": 1200,
+  "endProduct": "66b5f6985891c84aab75ca76",
+  "count": 1,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    {
+      "tpl": "66b5f693acff495a294927e3",
+      "count": 1
+    },
+    {
+      "tpl": "5c06779c86f77426e00dd782",
+      "count": 2
+    },
+    {
+      "tpl": "590a391c86f774385a33c404",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "544fb5454bdc2df8738b456a",
+      "count": 1
+    }
+  ]
+}
