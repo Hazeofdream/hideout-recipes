@@ -1,15 +1,15 @@
 {
-  "_id": "M441-HE",
+  "_id": "VOG-25",
   "areaType": 10,
   "requiredLevel": 3,
   "productionTime": 300,
-  "endProduct": "5ede47405b097655935d7d16",
-  "count": 2,
-  "needFuelForAllProductionTime": true,
+  "endProduct": "5656eb674bdc2d35148b457c",
+  "count": 3,
+  "needFuelForAllProductionTime": false,
   "inputs": [
     {
-      "tpl": "58d3db5386f77426186285a0",
-      "count": 2
+      "tpl": "5e340dcdcb6d5863cc5e5efb",
+      "count": 3
     },
     {
       "tpl": "5d6fc87386f77449db3db94e",
@@ -23,10 +23,6 @@
   "tools": [
     {
       "tpl": "544fb5454bdc2df8738b456a",
-      "count": 1
-    },
-    {
-      "tpl": "5d40419286f774318526545f",
       "count": 1
     }
   ]
