@@ -1,0 +1,33 @@
+{
+  "_id": "9X39mm-SP6",
+  "areaType": 10,
+  "requiredLevel": 3,
+  "productionTime": 900,
+  "endProduct": "57a0e5022459774d1673f889",
+  "count": 60,
+  "needFuelForAllProductionTime": true,
+  "inputs": [
+    {
+      "tpl": "5c0d668f86f7747ccb7f13b2",
+      "count": 90
+    },
+    {
+      "tpl": "61bf7b6302b3924be92fa8c3",
+      "count": 1
+    },
+    {
+      "tpl": "5d6fc87386f77449db3db94e",
+      "count": 1
+    },
+    {
+      "tpl": "590c5a7286f7747884343aea",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "544fb5454bdc2df8738b456a",
+      "count": 1
+    }
+  ]
+}
