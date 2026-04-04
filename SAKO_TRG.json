@@ -1,0 +1,33 @@
+{
+  "_id": "PR_SAKOTRG",
+  "areaType": 10,
+  "requiredLevel": 3,
+  "productionTime": 1200,
+  "endProduct": "673cab3e03c6a20581028bc1",
+  "count": 1,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "5bc9b355d4351e6d1509862a",
+      "count": 2
+    },
+    {
+      "tpl": "57347c5b245977448d35f6e1",
+      "count": 6
+    },
+    {
+      "tpl": "5d1c819a86f774771b0acd6c",
+      "count": 4
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "544fb5454bdc2df8738b456a",
+      "count": 1
+    },
+    {
+      "tpl": "590c2e1186f77425357b6124",
+      "count": 1
+    }
+  ]
+}
