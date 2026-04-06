@@ -1,0 +1,21 @@
+{
+  "_id": "PR_APPLEJUICE",
+  "areaType": 6,
+  "requiredLevel": 2,
+  "productionTime": 1800,
+  "endProduct": "60098b1705871270cd5352a1",
+  "count": 2,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "57513f07245977207e26a311",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "5d1b39a386f774252339976f",
+      "count": 1
+    }
+  ]
+}
