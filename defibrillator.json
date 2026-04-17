@@ -1,0 +1,37 @@
+{
+  "_id": "PR_DEFIBRILLATOR",
+  "areaType": 7,
+  "requiredLevel": 1,
+  "productionTime": 3600,
+  "endProduct": "5c052e6986f7746b207bc3c9",
+  "count": 1,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "590a391c86f774385a33c404",
+      "count": 2
+    },
+    {
+      "tpl": "5c06779c86f77426e00dd782",
+      "count": 3
+    },
+    {
+      "tpl": "5c06782b86f77426df5407d2",
+      "count": 1
+    },
+    {
+      "tpl": "5af0561e86f7745f5f3ad6ac",
+      "count": 1
+    },
+    {
+      "tpl": "5c0e534186f7747fa1419867",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "590c2e1186f77425357b6124",
+      "count": 1
+    }
+  ]
+}
