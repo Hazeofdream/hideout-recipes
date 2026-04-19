@@ -1,0 +1,29 @@
+{
+  "_id": "PR_SHG2",
+  "areaType": 10,
+  "requiredLevel": 3,
+  "productionTime": 300,
+  "endProduct": "67446fdd752be02c220f27b3",
+  "count": 2,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "5d6fc87386f77449db3db94e",
+      "count": 2
+    },
+    {
+      "tpl": "58d3db5386f77426186285a0",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "590c2e1186f77425357b6124",
+      "count": 1
+    },
+    {
+      "tpl": "544fb5454bdc2df8738b456a",
+      "count": 1
+    }
+  ]
+}
