@@ -1,0 +1,25 @@
+{
+  "_id": "PR_M903",
+  "areaType": 10,
+  "requiredLevel": 3,
+  "productionTime": 1800,
+  "endProduct": "67dc2648ba5b79876906a166",
+  "count": 30,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "67dc255ee3028a8b120efc48",
+      "count": 60
+    },
+    {
+      "tpl": "5d6fc78386f77449d825f9dc",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "544fb5454bdc2df8738b456a",
+      "count": 1
+    }
+  ]
+}
