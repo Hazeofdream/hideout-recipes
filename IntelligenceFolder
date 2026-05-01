@@ -1,0 +1,25 @@
+{
+  "_id": "BatteredBookConversion",
+  "areaType": 13,
+  "requiredLevel": 1,
+  "productionTime": 1500,
+  "endProduct": "638e0752ab150a5f56238962",
+  "count": 1,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "5bc9c049d4351e44f824d360",
+      "count": 3
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "59faf98186f774067b6be103",
+      "count": 1
+    },
+    {
+      "tpl": "638cbb3ba63f1b49be6a300e",
+      "count": 1
+    }
+  ]
+}
