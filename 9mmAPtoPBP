@@ -1,0 +1,29 @@
+{
+  "_id": "9mmAPtoPBP",
+  "areaType": 10,
+  "requiredLevel": 2,
+  "productionTime": 600,
+  "endProduct": "5efb0da7a29a85116f6ea05f",
+  "count": 150,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "56d59d3ad2720bdb418b4577",
+      "count": 180
+    },
+    {
+      "tpl": "5d6fc87386f77449db3db94e",
+      "count": 1
+    },
+    {
+      "tpl": "590c5a7286f7747884343aea",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "590c2e1186f77425357b6124",
+      "count": 1
+    }
+  ]
+}
