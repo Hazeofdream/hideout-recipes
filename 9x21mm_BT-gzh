@@ -1,0 +1,25 @@
+{
+  "_id": "9x21mm-7U4-to-BT",
+  "areaType": 10,
+  "requiredLevel": 3,
+  "productionTime": 600,
+  "endProduct": "5a26ac0ec4a28200741e1e18",
+  "count": 120,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "6576f93989f0062e741ba952",
+      "count": 90
+    },
+    {
+      "tpl": "5d6fc78386f77449d825f9dc",
+      "count": 1
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "590c2e1186f77425357b6124",
+      "count": 1
+    }
+  ]
+}
