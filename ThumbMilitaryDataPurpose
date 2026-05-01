@@ -1,0 +1,21 @@
+{
+  "_id": "DataThumbDrivePurpose",
+  "areaType": 11,
+  "requiredLevel": 2,
+  "productionTime": 1500,
+  "endProduct": "5c05308086f7746b2101e90b",
+  "count": 1,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "6889e4cd3ff7e9cfbc0c507c",
+      "count": 8
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "5c052fb986f7746b2101e909",
+      "count": 1
+    }
+  ]
+}
