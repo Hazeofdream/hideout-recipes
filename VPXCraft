@@ -1,0 +1,21 @@
+{
+  "_id": "ThumbDriveMilitaryDataPurpose2",
+  "areaType": 11,
+  "requiredLevel": 2,
+  "productionTime": 1500,
+  "endProduct": "5c05300686f7746dce784e5d",
+  "count": 1,
+  "needFuelForAllProductionTime": false,
+  "inputs": [
+    {
+      "tpl": "6889e4cd3ff7e9cfbc0c507c",
+      "count": 10
+    }
+  ],
+  "tools": [
+    {
+      "tpl": "5c052fb986f7746b2101e909",
+      "count": 1
+    }
+  ]
+}
