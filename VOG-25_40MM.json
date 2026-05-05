@@ -1,6 +1,6 @@
 {
   "_id": "VOG-25",
-  "areaType": 10,
+  "areaType": 12,
   "requiredLevel": 3,
   "productionTime": 300,
   "endProduct": "5656eb674bdc2d35148b457c",
