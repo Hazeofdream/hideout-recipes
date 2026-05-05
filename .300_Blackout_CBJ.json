@@ -1,6 +1,6 @@
 {
   "_id": ".300_Blackout_CBJ",
-  "areaType": 10,
+  "areaType": 12,
   "requiredLevel": 3,
   "productionTime": 1200,
   "endProduct": "64b8725c4b75259c590fa899",
