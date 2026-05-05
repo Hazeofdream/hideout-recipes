@@ -1,6 +1,6 @@
 {
   "_id": "7.62x39mm BP gzh",
-  "areaType": 10,
+  "areaType": 12,
   "requiredLevel": 3,
   "productionTime": 1800,
   "endProduct": "59e0d99486f7744a32234762",
